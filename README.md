@@ -9,4 +9,4 @@ Sales are declining for almost all regions. Sales Director wants to know followi
   - Revenue breakdown by year and months 
   - Top 5 customers by revenue and sales quantity
   - Top 5 products by revenue number
-  - What is aggregate revenue in last 365 days (year-to-date revenue)
+  - What is aggregate revenue in last 365 days (year-to-date revenue)
